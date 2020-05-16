@@ -2,6 +2,7 @@
 Used various classification algorithms to predict heart disease in a patient.
 
 Dataset Description:-
+
 1.age: The person's age in years
 
 2.sex: The person's sex (1 = male, 0 = female)
